@@ -1,6 +1,4 @@
 # Menu dictionary
-#from curses.ascii import isdigit
-
 
 menu = {
     "Snacks": {
